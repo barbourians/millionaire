@@ -1,9 +1,7 @@
 ####################################################################################################
-# File: millionairedb.py                                                                           #
-# Who Wants to Be a Millionaire: questions and answers                                             #
-# Compiled by Ilya Ilyankou                                                                        #
-# Date: November 2014                                                                              #
-# Source http://www.gamefaqs.com/gba/919785-who-wants-to-be-a-millionaire-2nd-edition/faqs/40044   #
+# File: millionairedb.py
+# Who Wants to Be a Millionaire: questions and answers
+# Source http://www.gamefaqs.com/gba/919785-who-wants-to-be-a-millionaire-2nd-edition/faqs/40044
 ####################################################################################################
 
 def get_question(n, t):
