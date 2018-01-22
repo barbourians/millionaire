@@ -1,8 +1,6 @@
 ####################################################################################################
-# File: 	millionaire.py                                                                           #
-# A console simulation of a game Who Wants to Be a Millionaire                                     #
-# Author: 	Ilya Ilyankou                                                                          #
-# Date: 	November 2014                                                                            #
+# File: 	millionaire.py
+# A console simulation of a game Who Wants to Be a Millionaire
 ####################################################################################################
 
 import millionairedb
